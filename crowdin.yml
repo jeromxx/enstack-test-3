@@ -7,7 +7,7 @@
 
 "files": [
   {
-    "source": "src/locales/en.json",
-    "translation": "src/locales/%two_letters_code%.json" 
+    "source": "enstack-i18n/src/locales/en.json",
+    "translation": "enstack-i18n/src/locales/%two_letters_code%.json" 
   },
 ]
